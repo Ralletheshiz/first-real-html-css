@@ -88,7 +88,7 @@ flex-direction: row eller column - hvordan ligger den items ind?
 
 .search-bar-container {
     position: relative;
-    width: 480px;
+    width: 600px;
     margin: auto; 
     font-size: 0;
 }
